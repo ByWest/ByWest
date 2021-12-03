@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/909839857155702874/916316741456515082/standard.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/909839857155702874/916316741456515082/standard.gif" width="450" height="200" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
