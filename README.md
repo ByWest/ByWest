@@ -3,34 +3,23 @@
 <h2>Ben Kimim</h2>
 
 ```js
-class Wex {
+class Wêst {
     constructor(options) {
-        this.name = "Eray",
+        this.name = "Göekm",
         this.sex = "man",
-        this.length = "178",
+        this.length = "181",
         this.type = "human",
         this.job = "developer",
-        this.weight = "85",
-        this.age = "19",
-        this.discord.tag = "Wex#1000"
+        this.weight = "75",
+        this.age = "18",
+        this.discord.tag = "Wêst#0001"
     };
 }
 
 module.exports = Wex
 ```
 # My Social Media 
-[• Discord Accounts](https://discord.com/users/728161454288535604) | [• My Server](https://discord.gg/515) | [• Instagram](https://www.instagram.com/wexsakinol)
+[• Discord Accounts](https://discord.com/users/737254285754236959) | [• My Server](https://discord.gg/sheruta) | [• Instagram](https://www.instagram.com/grkm.wq)
 
 
-### 📩 Connect with me:
-
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-
-<br />
-
-
-[instagram]: https://www.instagram.com/grkm.wq
-[gmail]: mailto:grkmwest@gmail.com
-<br />
+<br 
