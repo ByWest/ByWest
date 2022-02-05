@@ -5,7 +5,7 @@
 ```js
 class Wêst {
     constructor(options) {
-        this.name = "Göekm",
+        this.name = "Görkem",
         this.sex = "man",
         this.length = "181",
         this.type = "human",
