@@ -1,20 +1,26 @@
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/909839857155702874/916316741456515082/standard.gif" width="450" height="200" />
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
-- 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
-- 🤔 I’m looking for help with Flutter front-end developer
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+<h2>Ben Kimim</h2>
 
+```js
+class Wex {
+    constructor(options) {
+        this.name = "Eray",
+        this.sex = "man",
+        this.length = "178",
+        this.type = "human",
+        this.job = "developer",
+        this.weight = "85",
+        this.age = "19",
+        this.discord.tag = "Wex#1000"
+    };
+}
 
-## ⏲ What we are doing now:
-I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
-I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
-I also work as a FreeLancer 🆓.
+module.exports = Wex
+```
+# My Social Media 
+[• Discord Accounts](https://discord.com/users/728161454288535604) | [• My Server](https://discord.gg/515) | [• Instagram](https://www.instagram.com/wexsakinol)
 
-<br />
 
 ### 📩 Connect with me:
 
