@@ -19,7 +19,7 @@ class Wêst {
 module.exports = Wêst
 ```
 # My Social Media 
-[• Discord Accounts](https://discord.com/users/737254285754236959) | [• My Server](https://discord.gg/sheruta) | [• Instagram](https://www.instagram.com/grkm.wq)
+[• Discord Accounts](https://discord.com/users/737254285754236959) 
+[• My Server](https://discord.gg/sheruta) 
+[• Instagram](https://www.instagram.com/grkm.wq)
 
-
-<br 
