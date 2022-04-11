@@ -1,25 +1,13 @@
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/909839857155702874/916316741456515082/standard.gif" width="450" height="200" />
-
-<h2>Ben Kimim</h2>
-
-```js
-class Wêst {
-    constructor(options) {
-        this.name = "Görkem",
-        this.sex = "man",
-        this.length = "181",
-        this.type = "human",
-        this.job = "developer",
-        this.weight = "75",
-        this.age = "18",
-        this.discord.tag = "Wêst#0001"
-    };
-}
-
-module.exports = Wêst
-```
-# My Social Media 
-[• Discord Accounts](https://discord.com/users/737254285754236959) 
-[• My Server](https://discord.gg/sheruta) 
-[• Instagram](https://www.instagram.com/grkm.wq)
+![midwest](https://media.discordapp.net/attachments/909839857155702874/916316741456515082/standard.gif?raw=true)
+<p align="center">
+   <a href="https://instagram.com/kahvebutkahpe" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://discord.com/users/134372157496098816" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://sptfy.com/kahverella" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://github.com/Kahverella" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+<div align="center">
+   <a href="https://discord.com/users/134372157496098816" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/737254285754236959?bg=111111">
+   </a>
+</div>
 
