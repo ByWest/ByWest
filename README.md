@@ -8,6 +8,7 @@
 <div align="center">
    <a href="https://discord.com/users/737254285754236959" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/737254285754236959?bg=111111">
+      [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:737254285754236959)
    </a>
 </div>
 
